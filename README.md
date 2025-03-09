@@ -15,7 +15,7 @@
 <a href="https://discord.com/users/1213828636235534377" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
-<a href="blankb" target="https://github.com/Ard4Wien">
+<a href="https://github.com/Ard4Wien" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="40px">
 </a>
 
