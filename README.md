@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://git.io/typing-svg"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=007ACC&width=600&height=100&lines=Hi%2C+I'm+ArdaW;Developer;ArdaWien" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=007ACC&width=600&height=100&lines=Hi%2C+I'm+ArdaW;Developer;ArdaWien" />
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Ard4Wien&color=blue"/>
@@ -43,12 +43,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ard4Wien&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ard4Wien&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ard4Wien&theme=onedark&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ard4Wien&theme=merko&hide_border=true&layout=compact" alt="Top Languages" />
 
 <h2></h2>
 
