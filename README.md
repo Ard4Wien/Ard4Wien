@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ard4Wien&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ard4Wien&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
