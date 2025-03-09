@@ -43,12 +43,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ErenayFC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ard4Wien&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenayFC&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ard4Wien&theme=onedark&hide_border=true&layout=compact" alt="Top Languages" />
 
 <h2></h2>
 
