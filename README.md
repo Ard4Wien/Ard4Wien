@@ -43,8 +43,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ard4Wien&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ard4Wien)]
+      <img src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=Ard4Wien&layout=compact&theme=tokyonight" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
