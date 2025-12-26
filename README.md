@@ -15,10 +15,10 @@
 <a href="https://discord.com/users/1213828636235534377" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
-
-<a href="mailto:mardaozbay08@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40px">
+<a href="https://discord.com/users/1213828636235534377" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px">
 </a>
+
 
 <h2></h2>
 
