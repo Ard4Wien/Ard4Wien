@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:dev.rafaelrios@outlook.com)
+<a ![Email](https://skillicons.dev/icons?i=gmail)](Mailim:mardaozbay08@gmail.com) </a>
 
 <h2></h2>
 
