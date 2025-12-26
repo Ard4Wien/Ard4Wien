@@ -16,9 +16,9 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
 
-<a href="mailto:senin.adresin@example.com?subject=Profiliniz%20Hakkinda%20Bir%20Soru&body=Merhaba%2C%20calismalarinizi%20cok%20begendim."
-    <img src="https://skillicons.dev/icons?i=gmail" width="40px">
-/a>
+<a href="mailto:senin.mail.adresin@example.com?subject=Profiliniz%20Uzerinden%20Iletisim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px">
+</a>
 
 <h2></h2>
 
