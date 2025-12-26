@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td>
-      <img src="[[https://github-readme-stats-sable-five-74.vercel.app/api?username=Ard4Wien&show_icons=true&count_private=true&theme=tokyonigh](https://github-readme-stats-sable-five-74.vercel.app/api?username=Ard4Wien&show_icons=true&count_private=true&theme=tokyonigh)](https://github-readme-stats-sable-five-74.vercel.app/api?username=Ard4Wien&show_icons=true&count_private=true&theme=tokyonight)" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sable-five-74.vercel.app/api?username=Ard4Wien&show_icons=true&count_private=true&theme=tokyonight" />
     </td>
   </tr>
 </table>
