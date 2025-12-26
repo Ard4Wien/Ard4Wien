@@ -16,9 +16,8 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
 
-<a href="mailto:senin.mail.adresin@example.com?subject=Profiliniz%20Uzerinden%20Iletisim" target="_blank">
+<a href="mailto:senin.mail.adresin@example.com?subject=Profiliniz%20Uzerinden%20Iletisim">
     <img src="https://skillicons.dev/icons?i=gmail" width="40px">
-</a>
 
 <h2></h2>
 
