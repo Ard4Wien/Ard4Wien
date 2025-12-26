@@ -43,12 +43,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sable-five-74.vercel.app/api?username=Ard4Wien&show_icons=true&count_private=true&theme=tokyonight" />
+      <img src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=Ard4Wien&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=Ard4Wien&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats-sable-five-74.vercel.app/api?username=Ard4Wien&show_icons=true&count_private=true&theme=tokyonight" alt="Top Languages" />
 
 <h2></h2>
 
