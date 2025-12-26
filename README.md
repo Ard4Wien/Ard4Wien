@@ -18,6 +18,7 @@
 
 <a href="mailto:mardaozbay08@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40px">
+</a>
 
 <h2></h2>
 
