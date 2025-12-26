@@ -42,9 +42,7 @@
 
 <table>
   <tr>
-    <td>
       <img src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=Ard4Wien&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
   </tr>
 </table>
 
