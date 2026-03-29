@@ -26,15 +26,15 @@
 <div>
     <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js" /><br/>
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,prisma,py,arduino" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,supabase,express,electron,nginx" />
+<!--<img src="https://skillicons.dev/icons?i=yakında ekleriz" /> -->
 </div>
 
 <h2></h2>
 
 ### 🛠️ Development Tools
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,vim,babel" /><br/>
-    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,netlify,autocad" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,vscode,debian,windows" />
 </div>
 
 <h2></h2>
