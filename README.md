@@ -25,7 +25,7 @@
 ### 💻 Tech Stack
 <div>
     <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js" /><br/>
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,prisma,py,arduino" /><br/>
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,prisma,py,arduino" /><br/>
 <!--<img src="https://skillicons.dev/icons?i=yakında ekleriz" /> -->
 </div>
 
